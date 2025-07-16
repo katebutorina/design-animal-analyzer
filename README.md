@@ -1,4 +1,4 @@
-# 🎨 Designanimals
+# Designanimals
 
 **Destroy the grid, unleash the instinct.**
 
